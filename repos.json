@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "gta4xl",
       "repo": "https://github.com/LineageOS/android_kernel_samsung_gta4xl",
-      "branch": "lineage-22.2",
+      "branch": "lineage-23.2",
       "device": "exynos9611-gta4xlwifi"
     },
     "withKernelSU": true,
